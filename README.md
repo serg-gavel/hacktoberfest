@@ -12,8 +12,9 @@ Submitted in a public repo AND (
 )
 
 ## Tasks
- - Create username repository and style your README.md file
-  - Edit and create cool user profile 
- - Participate in other projects
-  - hackerearth.com - algoritm hacking repo (icrease your level easy to find already solved solytion)
-  - 
+- Create username repository and style your README.md file
+  - Edit and create cool user profile
+
+
+- Participate in other projects
+  - [hackerearth.com](https://hackerearth.com) - algoritm hacking repo (icrease your level easy to find already solved solytion) 
