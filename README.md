@@ -31,4 +31,4 @@ Submitted in a public repo AND (
 
 
 ## Contributors
-[<img src="https://avatars.githubusercontent.com/u/21281697?v=4" width="250"/>](https://hackerearth.com)
+[<img src="https://avatars.githubusercontent.com/u/21281697?v=4" width="50"/>](https://github.com/igavelyuk)
